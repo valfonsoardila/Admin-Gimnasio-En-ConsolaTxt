@@ -7,3 +7,12 @@ C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Datos\obj\Debug\Datos
 C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Datos\obj\Debug\Datos.dll
 C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Datos\obj\Debug\Datos.pdb
 C:\Users\Jaime\source\repos\AdminGimnasio-ArchivosPlanoTxt\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Datos\bin\Debug\Datos.dll
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Datos\bin\Debug\Datos.pdb
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Datos\bin\Debug\Entidades.dll
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Datos\bin\Debug\Entidades.pdb
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Datos\obj\Debug\Datos.dll
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Datos\obj\Debug\Datos.pdb

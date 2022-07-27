@@ -24,3 +24,17 @@ C:\Users\Jaime\source\repos\AdminGimnasio-ArchivosPlanoTxt\Consola\obj\Debug\Con
 C:\Users\Jaime\source\repos\AdminGimnasio-ArchivosPlanoTxt\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
 C:\Users\Jaime\source\repos\AdminGimnasio-ArchivosPlanoTxt\Consola\obj\Debug\Consola.exe
 C:\Users\Jaime\source\repos\AdminGimnasio-ArchivosPlanoTxt\Consola\obj\Debug\Consola.pdb
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Consola\bin\Debug\Consola.exe.config
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Consola\bin\Debug\Consola.exe
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Consola\bin\Debug\Consola.pdb
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Consola\bin\Debug\Entidades.dll
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Consola\bin\Debug\Logica.dll
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Consola\bin\Debug\Datos.dll
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Consola\bin\Debug\Entidades.pdb
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Consola\bin\Debug\Logica.pdb
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Consola\bin\Debug\Datos.pdb
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Consola\obj\Debug\Consola.exe
+C:\Users\Jaime\Source\Repos\AdminGimnasioEnConsolaTxt\Consola\obj\Debug\Consola.pdb
