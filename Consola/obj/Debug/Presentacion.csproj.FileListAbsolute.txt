@@ -1,0 +1,14 @@
+C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Presentacion\bin\Debug\Logica.dll
+C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Presentacion\bin\Debug\Datos.dll
+C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Presentacion\bin\Debug\Logica.pdb
+C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Jaime\Source\Repos\AdminGimnasio-ArchivosPlanoTxt\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
